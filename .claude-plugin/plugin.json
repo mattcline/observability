@@ -1,0 +1,4 @@
+{
+  "name": "observability",
+  "description": "Chrome DevTools for Claude Code — logs bash commands to JSONL files for analysis and debugging."
+}
